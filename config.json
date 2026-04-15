@@ -59,5 +59,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a simple REST API using FastAPI with basic CRUD endpoints.",
+      "path": "assignments/fastapi-rest",
+      "dueDate": "2026-04-22",
+      "attachments": [
+        {
+          "name": "Starter App",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Dependencies",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
